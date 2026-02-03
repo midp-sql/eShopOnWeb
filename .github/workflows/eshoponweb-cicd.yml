@@ -9,7 +9,7 @@ env:
   LOCATION: spaincentral
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 7ed24906-4255-4fb0-b9af-e5fea5237915
-  WEBAPP-NAME: eshoponweb-webapp-UM
+  WEBAPP-NAME: curso-devops-UM
 
 jobs:
   #Build, test and publish .net web project in repository
